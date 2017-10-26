@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">14070846627-v0veaeofq2i2476f9vaheel8m13m4b7u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projektcarcare.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">14070846627</string>
+    <string name="google_api_key" translatable="false">AIzaSyCCmz6A65Ce9-ww8_uHDz1h3jC_Uhzac38</string>
+    <string name="google_app_id" translatable="false">1:14070846627:android:e124c9211dd5c928</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCmz6A65Ce9-ww8_uHDz1h3jC_Uhzac38</string>
+    <string name="google_storage_bucket" translatable="false">projektcarcare.appspot.com</string>
+</resources>

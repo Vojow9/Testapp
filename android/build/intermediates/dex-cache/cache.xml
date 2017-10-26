@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_cfb4dfd4a17abcccdce48a720870b2d29659123c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_74c19066d0aca03ed6d5a063254f6d278d961f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_e8b16b925706d5bea915e48e0450bedf677af5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_46b95a52a879e5a792efad303f39cf13e15042a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.0_023a7bc07ca0acceea17b808897612a7f1af1015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aba37a3eec04e174dc59f00cf4bd7992061d847a">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.0_22f6ee608455e64ac40904ed337bf6bc10281a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f3945ee7d980a2a437b15ca9fa2d6263aa6fe960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_4ff2289042131e33327cccadd3b1f44846971df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_ebbbe1752087f6c2f5dc7afc4973c35f142746fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e39662b49ef66950c0941aa5fd4c49346a7c341">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.0_cc60f2781dd4470d2dd7aa7bcd3791c6260f93a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0fcea96c1d6322a56707b299ea87de815fb0c4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c1b0256a6b14506c4c7dd72e2522d5a63f8a4554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_e74e7bdfb470d52073ad65eb0a430db6496d15d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_6cc5106ff913fb68ac6e0c0442c58efe446cd9a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_bbd81241f0204d9b2cff38c262862adff57cd70b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8723f4a84a0293f5e9ee76193e6bfec47137f048">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.0_1206bc12fa9f337b2017e8c28a5c5150c04130e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_9f78940635fbffa143bc849f7892168b2f4c8be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_4bc8c5e653824da98a3cefc6a89b23ec6d317a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_1e311b23dc142a56b8421f18996b392b798cb73b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_ed6431ac76df8db3a09592b42b5a3ce972a12fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a611d7a00671ec4eb3050a21425fae955a38eb8a">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.0_c47cee5e713bee374964744c1bb72eb4e1e7c788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2f506f01b41417919983ae4be9fccb59d39adb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/Carcare/react-native-audio-player-recorder/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd4d1f866d7796a0e027000bd213e0a3ef779b1">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/Carcare-react-native-audio-player-recorder-unspecified_ca86147888e217f6c57e6d70430af5bac96f8235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_5dc85ac48ed5c1c69d811dba8da4983c70b1b831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.0_17167ee3712333ac387240208829e61aee254fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/Carcare/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1bd2cbb282fc5d14960da664e54895912e130f64">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/Carcare-react-native-fcm-unspecified_36dcb110b1ce584243557268d160f5f0a5c10f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_15ad0645aa57950f6dc6f3b34586d83f562687f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_76867118132bce2bee1a8e7f90252bdb46c31654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_2b81aee2430bf6b356724efad0c5785b4f8ed22d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0fc5c07810340f2fc32b9f2e35f1be3ed93c71ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ef65e4780d67d06abddd6e2d15dd4e0519ad8d8a">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.0_910d5f69193daab527d2257dd8c8171fdb178d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_a95a5f74db53e63319234ffdeb17fc3668826b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6792fb346d4f11b5b9e6c1a5df3a99c140a9e70">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.10_47f58bbd2fbbcb4523baab025431debc04ea2267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_ca331290a1874ca97d7615d7505f791b92c3b6f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/Carcare/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="836c87353bc048ecf11c1f26daacacc290da7de3">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/Carcare-react-native-fetch-blob-unspecified_0b829645cf14db4600a5117168291458c1bdb0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.3_b50d9f03b0ed8fdd41e34d0211ac1367a17cfb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/woyko/Dokumenty/carcare/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_c18c1a6f713150274f4d8a84e2209d1da3c1e1ba.jar" />
+    </item>
+
+</items>

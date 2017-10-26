@@ -1,0 +1,32 @@
+{
+  "name": "Carcare",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^3.7.8",
+    "lodash": "^4.17.4",
+    "native-base": "^2.1.5",
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.0",
+    "react-native-audio-player-recorder": "^2.0.0",
+    "react-native-color-picker": "^0.2.1",
+    "react-native-deprecated-custom-components": "^0.1.0",
+    "react-native-fcm": "^6.2.3",
+    "react-native-fetch-blob": "^0.10.5",
+    "react-native-firebase-auth": "0.0.11",
+    "react-native-multiselect": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
